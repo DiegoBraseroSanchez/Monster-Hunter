@@ -9,8 +9,8 @@ Renposive🖥️
 ![monster4](https://github.com/DiegoBraseroSanchez/Monster-Hunter/assets/129300180/a92003a5-7b37-4561-80fc-54e8ff5f8d9c)
 
 ![monster5](https://github.com/DiegoBraseroSanchez/Monster-Hunter/assets/129300180/bcdf5696-a8fd-47fe-97c7-111c3fc7ded0)
-Responsive Mobile📱
 ![monster6](https://github.com/DiegoBraseroSanchez/Monster-Hunter/assets/129300180/103b6f91-7231-4c05-8064-a5aec55893cc)
+Responsive Mobile📱
 ![monster7](https://github.com/DiegoBraseroSanchez/Monster-Hunter/assets/129300180/b3302263-4d0a-49aa-a003-cdf7a47ba76f)
 
 ¡ESPERO QUE TE GUSTE! 🤓
