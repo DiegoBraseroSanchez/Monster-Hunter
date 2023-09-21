@@ -1,0 +1,43 @@
+.ul{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1em;
+    font-size: 1.4em;
+}
+.NavBar{
+    width: 90%;
+    max-width: 1467px;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    /* background-color: gold; */
+    margin: auto;
+    padding: 2em 0;
+    font-size: 2vh;
+    font-weight: 600;
+}
+
+
+@media (max-width:663px){
+    .ul{
+        display: none;
+    }
+}
+::-webkit-scrollbar {
+    width: .75rem;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:rgb(78, 77, 77);
+  }
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(224, 165, 54);
+    
+    border-radius: .625rem;
+  }
+  /*FIN DE LA MODIFICACION DE SCROLL*/  
