@@ -5,7 +5,7 @@ Pantalla Completa
 ![monster2](https://github.com/DiegoBraseroSanchez/Monster-Hunter/assets/129300180/22df944d-11da-4fb3-863f-57f9671439dd)
 
 Renposive🖥️
-
+Responsive Mobile📱
 ![monster3](https://github.com/DiegoBraseroSanchez/Monster-Hunter/assets/129300180/e1fa7ea1-ae6c-4e3f-adeb-7d3f0bb28e8d)
 Responsive Mobile📱
 ![monster4](https://github.com/DiegoBraseroSanchez/Monster-Hunter/assets/129300180/a92003a5-7b37-4561-80fc-54e8ff5f8d9c)
